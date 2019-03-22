@@ -5,6 +5,6 @@ Contains:
 
 [mosaicOfImages.pde] Main source code for the sketch
 
-[images.zip] An archive of old Russian photographs.  **In order to make the sketch work correctly, this folder must be unzipped into the sketch's folder**   Original photographs obtained from: http://www.loc.gov/pictures/collection/prok/
+[images.zip] An archive of old Russian photographs.  **In order to make the sketch work correctly, this folder must be unzipped into the sketch's folder.**   Original photographs obtained from: http://www.loc.gov/pictures/collection/prok/
 
 [image.jpg] An image of the UT Tower which will undergo the transformation
